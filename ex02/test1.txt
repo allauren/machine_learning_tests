@@ -1,0 +1,2 @@
+['It', 'important', 'pythonly', 'pythoning', 'python', '.', 'All', 'pythoners', 'pythoned', 'poorly', 'least', '.']
+['It', u'import', u'pythonli', u'python', 'python', '.', 'all', u'python', u'python', u'poorli', 'least', '.']
